@@ -11,7 +11,7 @@ There are two types of marketing. They are,
 
 
 
-The old type of marketing is traditional marketing. When it converts to digital marketing, it's not converting in meaningful manner. Then the digital marketing also will become traditional marketing. What the sellers are doing is they just show some videos etc in the dislay. But, it is not the digital marketing. So, that is the problem which shop sellers have to face.
+The old type of marketing is traditional marketing. When it converts to digital marketing from traditional marketing, it's not converting in meaningful manner. Then the digital marketing also will become traditional marketing. What the sellers are doing is they just show some videos etc in the dislay. But, it is not the digital marketing. So, that is the problem which shop sellers have to face.
 
 
 
