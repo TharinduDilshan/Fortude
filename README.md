@@ -95,4 +95,5 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 If you liked this project, star it on [GitHub](https://github.com/TharinduDilshan/Fortude).
 If you're feeling especially charitable, follow [Tharindu Dilshan](https://github.com/TharinduDilshan),[Kavindi Oshini](https://github.com/kavindiOshini), [Iresha](https://github.com/ishu16), [Shagi](https://github.com/ShagiG) on GitHub.
+Contact us via team-fortude@iit.ac.lk
 
