@@ -10,7 +10,6 @@ There are two types of marketing. They are,
 2) Digital Marketing 
 
 
-
 The old type of marketing is called the traditional marketing. Nowadays its converting into digital marketing but not in an effective manner. The sellers are using many techniques such as irrelavant digital banners and promotion videos to the consumers which doesnt reach and attract users. This in turns leads digital marketing unproductive to the sellers.
 
 
