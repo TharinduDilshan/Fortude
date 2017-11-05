@@ -60,7 +60,7 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Now open `problemNsolution.md` file in a text editor, check whether the problem and solution are correct or not and edit it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
 ```
 git add Contributors.md
 ```
@@ -94,6 +94,5 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 ## Self-Promotion
 
 If you liked this project, star it on [GitHub](https://github.com/TharinduDilshan/Fortude).
-If you're feeling especially charitable, follow [Tharindu Dilshan] on
-[GitHub](https://github.com/TharinduDilshan).
+If you're feeling especially charitable, follow [Tharindu Dilshan](https://github.com/TharinduDilshan),[Kavindi Oshini](https://github.com/kavindiOshini), [Iresha](https://github.com/ishu16), [Shagi](https://github.com/ShagiG) on GitHub.
 
